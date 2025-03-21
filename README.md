@@ -12,4 +12,4 @@ This directory contains practical exercises to improve your skills in Vue.js. Ea
 
 | Exercise| Description| Branch |
 |---------|------------|--------|
-| **Exercise 1** | Created and integrated a basic Vue component, using props, reactive data, and scoped styling. | [challenges/vuejs/level-1](https://github.com/Lusques/challenge-hub/tree/vuejs-level-1) |
+| **level 1** | Created and integrated a basic Vue component, using props, reactive data, and scoped styling. | [vuejs/level-1](https://github.com/Lusques/challenge-hub/tree/vuejs-level-1) |
