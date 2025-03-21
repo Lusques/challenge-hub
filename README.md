@@ -1,14 +1,15 @@
-# challenge-hub
-📌 My personal hub for daily coding challenges to learn, practice, and deepen my knowledge in various technologies and programming languages.
+# Vue.js Challenges
 
-### 📖 About This Repository</br>
-This repository was created to store and organize all the coding challenges I complete daily across different technologies. The goal is to ensure continuous and solid learning while constantly improving my skills.
+This directory contains practical exercises to improve your skills in Vue.js. Each exercise has a specific goal and covers essential framework concepts, helping to strengthen understanding and hands-on experience.
 
-### Here, you will find challenges in: </br>
-✅ Front-end Frameworks → Vue.js, React.js, Angular</br>
-✅ Programming Languages & Tools → TypeScript, Node.js</br>
-✅ Styling → SCSS</br>
-✅ Testing → Jest</br>
-✅ API & Data Handling → GraphQL</br>
+### 📌 How It Works
 
-Each challenge is designed to strengthen skills, address weak points, and ensure continuous improvement.
+- Each exercise is in a separate branch to keep dependencies isolated.
+- The exercises are listed below with a brief explanation.
+- To access a specific exercise, simply check out the corresponding branch.
+
+### 🚀 Available Exercises
+
+| Exercise| Description| Branch |
+|---------|------------|--------|
+| **Exercise 1** | Brief explanation of the exercise | [challenges/vuejs/level-1](#) |
